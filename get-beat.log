@@ -1,0 +1,405 @@
+usage: dump <outfile>
+	 	  query <song_name> <artist>
+0
+getting hits:The Fat Man from Fats Domino
+time for api call was: 1.70422101021 ms
+song name: The Fat Man , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/vicvEgWXCrthwZn22RXZW27TAhL4rwCZn6gGjg/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246352&Signature=1HuTgEI7752qUJLo5MC98OiAMlM%3D', u'energy': 0.5877430860719288, u'liveness': 0.38482564922422036, u'tempo': 73.038, u'speechiness': 0.04415251472790499, u'mode': 0, u'key': 5, u'duration': 159.29429, u'loudness': -13.889, u'audio_md5': u'86590d1ce93e0267130f407c430e3d76', u'danceability': 0.4851635934330266} 
+1
+getting hits:Please Send Me Someone To Love from Percy Mayfield
+time for api call was: 0.207623958588 ms
+song name: Please Send Me Someone To Love , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/ys70CQoc-e4h7qFIq_39r8jj8ymg_UR1gNDfM6/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246356&Signature=Xi5F/XclOptecMbs/eOtG43/w4o%3D', u'energy': 0.31106208756731435, u'liveness': 0.9303903661743409, u'tempo': 125.939, u'speechiness': 0.037247026702023234, u'mode': 1, u'key': 0, u'duration': 331.2, u'loudness': -13.178, u'audio_md5': u'c663072fc64a7e72eaf6bdf68b371210', u'danceability': 0.4915913562067938} 
+2
+getting hits:Teardrops From My Eyes from Ruth Brown
+time for api call was: 0.898211956024 ms
+song name: Teardrops From My Eyes , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/o-xQ6ACmrbrdYS9icWPST6B1iHc2Qy7OAuTvbK/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246360&Signature=XhEz4Mku33eci8L37kmSEZblXbk%3D', u'energy': 0.6999789899889113, u'liveness': 0.2875771701583568, u'tempo': 71.564, u'speechiness': 0.04539551546211945, u'mode': 0, u'key': 10, u'duration': 171.57224, u'loudness': -5.877, u'audio_md5': u'8de8dd59725f073e79eb1fc6935ff8c9', u'danceability': 0.6100963493401843} 
+3
+getting hits:Mona Lisa from Nat "King" Cole
+time for api call was: 0.248417854309 ms
+song name: Mona Lisa , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/o9GL8g6CXmM-HnBUZIAitrvyl-4NMD8OwHEn63/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246363&Signature=0i2JOpRgOrltHBZDDzriamIUwIg%3D', u'energy': 0.3698061115809351, u'liveness': 0.12931329783534684, u'tempo': 94.262, u'speechiness': 0.042743879237132076, u'mode': 0, u'key': 5, u'duration': 160.0, u'loudness': -13.412, u'audio_md5': u'e1dbbd9c789e34adfc8d0ddfcd423ccd', u'danceability': 0.2691766321969356} 
+4
+getting hits:Tennessee Waltz from Patti Page
+time for api call was: 0.451107025146 ms
+song name: Tennessee Waltz , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/-UG2lQSFBWsY3vjr0qJR_9kz88l-QCRoJ2Mcsa/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246367&Signature=LNKS/EVJvX37zUU64Xh/CGSXwMk%3D', u'energy': 0.2364706976581243, u'liveness': 0.11882820677439064, u'tempo': 91.381, u'speechiness': 0.03029050003790945, u'mode': 1, u'key': 5, u'duration': 145.74667, u'loudness': -16.352, u'audio_md5': u'acc9cc49ef411942d18363162bc0621d', u'danceability': 0.3578230460466549} 
+5
+getting hits:Long Gone Lonesome Blues from Hank Williams
+time for api call was: 0.220993995667 ms
+song name: Long Gone Lonesome Blues , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/HMis3wqqn09KFGlBppNo4NYDyhaJcwbYGABMhb/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246370&Signature=zZvA2ui8PJsHXDq9eqGeoquPkrw%3D', u'energy': 0.5540844834018626, u'liveness': 0.8896417404616409, u'tempo': 80.763, u'speechiness': 0.14338075125388217, u'mode': 1, u'key': 4, u'duration': 216.36027, u'loudness': -8.033, u'audio_md5': u'fe9f492c63b16b46149700e232b930f8', u'danceability': 0.4503827352023857} 
+6
+getting hits:Mardi Gras In New Orleans from Professor Longhair
+time for api call was: 0.174158096313 ms
+song name: Mardi Gras In New Orleans , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/NUckqw2iXw5G9an09ffD6Af9vInodavv5DXyte/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246374&Signature=jXnsGDbyeLsIeazPIpbGHLCPegc%3D', u'energy': 0.4611610936713525, u'liveness': 0.6582196077286699, u'tempo': 110.648, u'speechiness': 0.07445686318000178, u'mode': 1, u'key': 10, u'duration': 205.49333, u'loudness': -10.085, u'audio_md5': u'3eccd25218de57b33996ff6ee7f9116a', u'danceability': 0.5056735234759939} 
+7
+getting hits:I'm Movin' On from Hank Snow
+time for api call was: 0.298141002655 ms
+song name: I'm Movin' On , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/ifnZvQtsXt3P-OGguwMk6k5QC1MHTOt3rxqtV7/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246377&Signature=4c/5KNClqvnHDK1NdtFuaWbTXi0%3D', u'energy': 0.6368560794043568, u'liveness': 0.27059365535569474, u'tempo': 96.556, u'speechiness': 0.03325983703037805, u'mode': 1, u'key': 2, u'duration': 173.86667, u'loudness': -9.828, u'audio_md5': u'314f229f1525cf1fbeff1dc8239e25d9', u'danceability': 0.5926426391938324} 
+8
+getting hits:Rollin' Stone from Muddy Waters
+time for api call was: 0.329779863358 ms
+song name: Rollin' Stone , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/96AKBQpbIBrVdkS14kLvxDk3tb4B1NUQSM1zBJ/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246381&Signature=P7Vv3OHUChcUgXg7t7ds5SlnhF4%3D', u'energy': 0.2419878305472717, u'liveness': 0.10649459213659271, u'tempo': 85.001, u'speechiness': 0.16666594014158476, u'mode': 0, u'key': 9, u'duration': 185.82313, u'loudness': -14.529, u'audio_md5': u'26ecb66aa0f47042a5ab235d18a48133', u'danceability': 0.6586704464451653} 
+9
+getting hits:Double Crossing Blues from Johnny Otis (Little Esther & the Robins)
+time for api call was: 0.282642126083 ms
+10
+getting hits:Sixty Minute Man from Dominoes
+time for api call was: 0.143200874329 ms
+song name: Sixty Minute Man , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/4g3ldgpzxXHZ4UWpJekfYc9FDr59ee-w3b_M6s/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246387&Signature=xWlLSlMWVf9aTgFTjXbNqldV4GU%3D', u'energy': 0.821118106123941, u'liveness': 0.5665927382820193, u'tempo': 132.161, u'speechiness': 0.07557318661300805, u'mode': 1, u'key': 3, u'duration': 149.49791, u'loudness': -7.468, u'audio_md5': u'181cbeb60a398f89799eceeb11b9c5ce', u'danceability': 0.6011337680995202} 
+11
+getting hits:Rocket 88 from Jackie Brenston
+time for api call was: 0.131287097931 ms
+song name: Rocket 88 , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/IPZgiQf8nwmppxyicboKAn32tqsHST62llTzLU/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246390&Signature=7rWVCnxhCYZGwRzQZefgdoyDgn4%3D', u'energy': 0.669292541577614, u'liveness': 0.08835117342297673, u'tempo': 78.386, u'speechiness': 0.12155035742777243, u'mode': 0, u'key': 11, u'duration': 170.17333, u'loudness': -8.038, u'audio_md5': u'a8843fe46298edb2ba08fd89c2270b0b', u'danceability': 0.5106335581940897} 
+12
+getting hits:Dust My Broom from Elmore James
+time for api call was: 0.26681804657 ms
+song name: Dust My Broom , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/DF7jnQZLbCPe0zBEP7ay3SjyT3y68zhACJ6Tbm/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246394&Signature=mrQmppw1sG4HGNYt7v6o2J9x8bY%3D', u'energy': 0.577854107485806, u'liveness': 0.21482616225168435, u'tempo': 106.15, u'speechiness': 0.06124746472047515, u'mode': 1, u'key': 4, u'duration': 167.52, u'loudness': -10.024, u'audio_md5': u'ee1e6f4f5b8e37f8021482e4cf299f7d', u'danceability': 0.6596828331395043} 
+13
+getting hits:Cry from Johnnie Ray
+time for api call was: 0.226155996323 ms
+song name: Cry , {u'time_signature': 5, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/WSI1hAEz6x3Bdx-NQzodaElGRPtkFREiA5fMGU/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246397&Signature=wgaLH/h%2BTqaGQEfgHLT%2BysZziqU%3D', u'energy': 0.21544999121457847, u'liveness': 0.07977424747595337, u'tempo': 71.868, u'speechiness': 0.027011881727110665, u'mode': 0, u'key': 4, u'duration': 179.38667, u'loudness': -8.193, u'audio_md5': u'd1c5b745a023ecc0083b461d77064e88', u'danceability': 0.3966216883515013} 
+14
+getting hits:Too Young from Nat "King" Cole
+time for api call was: 0.262583017349 ms
+song name: Too Young , {u'time_signature': 1, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/EDaUGQ2qFABxl0yKpIKnVfp2A223S17DE9aYYz/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246401&Signature=3F75pjS%2Bl6l7KLPRk/MSiqXLVJo%3D', u'energy': 0.2972941930271044, u'liveness': 0.16694011406319537, u'tempo': 72.181, u'speechiness': 0.04298473918309903, u'mode': 1, u'key': 8, u'duration': 190.0, u'loudness': -16.303, u'audio_md5': u'fe68f316d3d06bb2c9941b4094f10538', u'danceability': 0.18687636767510793} 
+15
+getting hits:Cold Cold Heart from Hank Williams
+time for api call was: 0.224040985107 ms
+song name: Cold Cold Heart , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/fyTZ5gSku1xv41qJVQpwW9KQFtfgAyjPwDUvid/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246404&Signature=epXCneoiz4YkcgAdyCEctsHp%2BIM%3D', u'energy': 0.19140704600412498, u'liveness': 0.2504103344689767, u'tempo': 114.984, u'speechiness': 0.045846982166646066, u'mode': 1, u'key': 2, u'duration': 161.92476, u'loudness': -20.427, u'audio_md5': u'aa1f4e22c4bd5422d9e6416cd02a5c03', u'danceability': 0.6082097655064003} 
+16
+getting hits:Glory Of Love from Five Keys
+time for api call was: 0.226230859756 ms
+song name: Glory Of Love , {u'time_signature': 5, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/74jkJAytu4j3M_RmRaPUPY6vYzeMu6SY8IeBtn/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246407&Signature=G1cO/bSixG1f9/OC9y5z5%2B3ymY8%3D', u'energy': 0.14516851676929576, u'liveness': 0.11290923075955119, u'tempo': 81.306, u'speechiness': 0.03239031179608043, u'mode': 1, u'key': 3, u'duration': 186.76, u'loudness': -15.622, u'audio_md5': u'78106c03478bf1e6c7e00c5e6fa5bf66', u'danceability': 0.2901383675132819} 
+17
+getting hits:Three O'Clock Blues from B.B. King
+time for api call was: 0.311120986938 ms
+song name: Three O'Clock Blues , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/lyJg0wNkuHpIAi8Vac_V9thqU0k1C8nnYeqykS/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246411&Signature=283XW8ClwzLlE41AOGUwYLwttXM%3D', u'energy': 0.45480525205327654, u'liveness': 0.545243814244212, u'tempo': 70.495, u'speechiness': 0.0470701684186528, u'mode': 1, u'key': 10, u'duration': 178.52, u'loudness': -13.38, u'audio_md5': u'4369341d614004dc57c828a377fe0f8e', u'danceability': 0.6054020072904165} 
+18
+getting hits:Hey Good Lookin' from Hank Williams
+time for api call was: 0.27613401413 ms
+song name: Hey Good Lookin' , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/LD_wTA3-RvpqVVIOmLgTl9vaYcVpC-KpgM3ED3/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246414&Signature=lf4CGhFnE9X0aBuVL0BNgSWPGuc%3D', u'energy': 0.6548351337796767, u'liveness': 0.3697873908746204, u'tempo': 100.816, u'speechiness': 0.42258514391266705, u'mode': 1, u'key': 0, u'duration': 346.2, u'loudness': -12.447, u'audio_md5': u'873d53250e838d979a8a43543b38a33b', u'danceability': 0.6339554180717197} 
+19
+getting hits:How High The Moon from Les Paul & Mary Ford
+time for api call was: 0.130798101425 ms
+song name: How High The Moon , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/6w1WegC22f6jzHIW-wH3fRqOlvAiHwtFggBGZF/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246418&Signature=hzj1rZkK/nxUazt6cajHCiEZEvc%3D', u'energy': 0.6562365382126552, u'liveness': 0.7182869035259208, u'tempo': 119.331, u'speechiness': 0.06419924381474829, u'mode': 0, u'key': 11, u'duration': 124.73333, u'loudness': -14.056, u'audio_md5': u'25b3f18f190eee27f4a38107a8940261', u'danceability': 0.6971414293520197} 
+20
+getting hits:Lawdy Miss Clawdy from Lloyd Price
+time for api call was: 0.173089981079 ms
+song name: Lawdy Miss Clawdy , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/i_gOoABUkc5CsobtBreGownId2IsgMTU0vTnum/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246421&Signature=g5lr0qaMlPKL3oZeMRg2LR1%2B2VE%3D', u'energy': 0.5948148188691712, u'liveness': 0.18978876981321124, u'tempo': 92.929, u'speechiness': 0.03421622286311593, u'mode': 1, u'key': 3, u'duration': 153.68, u'loudness': -9.796, u'audio_md5': u'8676cd1199152473a4384e733a0c3c83', u'danceability': 0.6112529754711429} 
+21
+getting hits:Jambalaya (On The Bayou) from Hank Williams
+time for api call was: 0.12774515152 ms
+song name: Jambalaya (On The Bayou) , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/NCtcZgIXrtNfXi6AqCtBItZs9r1qiEiOoO8Kxt/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246424&Signature=/tcV/Rjr96PcX5XWXPt9oSPEK4s%3D', u'energy': 0.6101003614912304, u'liveness': 0.8516318580987282, u'tempo': 89.538, u'speechiness': 0.05429575348746507, u'mode': 1, u'key': 7, u'duration': 207.3219, u'loudness': -10.538, u'audio_md5': u'3782bed0d34846f43cfed389ee18cbfd', u'danceability': 0.5830244288852019} 
+22
+getting hits:Have Mercy Baby from Dominoes
+time for api call was: 0.495359182358 ms
+song name: Have Mercy Baby , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/qAfdMgn7E7TJvIHFtr_-imQcIcamWuDXlXlJQo/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246428&Signature=mlySNjeBV4zNEmJF9A5%2BOqRljAw%3D', u'energy': 0.6361007243635056, u'liveness': 0.14645387567212842, u'tempo': 73.007, u'speechiness': 0.07215488341482534, u'mode': 1, u'key': 5, u'duration': 137.60331, u'loudness': -22.435, u'audio_md5': u'4d7f833ec09bb586e3d5194636e3b98f', u'danceability': 0.6936836944089521} 
+23
+getting hits:One Mint Julep from Clovers
+time for api call was: 0.166609048843 ms
+song name: One Mint Julep , {u'time_signature': 5, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/WabKqg098qFFGkIZ3x_4lREIxTJB15jcM5urlc/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246431&Signature=1jVnBZncA1G0jKmpkI/G9dM4klU%3D', u'energy': 0.5815633519932051, u'liveness': 0.22390421076407027, u'tempo': 161.171, u'speechiness': 0.06339269449382295, u'mode': 1, u'key': 3, u'duration': 149.38231, u'loudness': -5.506, u'audio_md5': u'959336339516229133edd64d1359f0d7', u'danceability': 0.5266432879375866} 
+24
+getting hits:Night Train from Jimmy Forrest
+time for api call was: 0.139803171158 ms
+song name: Night Train , {u'time_signature': 1, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/fdxjFgHF60XScZnpuc2P2L7CdKPWqdqS-0ayNd/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246435&Signature=%2BdRpsL4IhGQ6i/OEVHum5ofFfpk%3D', u'energy': 0.568180650734136, u'liveness': 0.09145577659210287, u'tempo': 118.122, u'speechiness': 0.05047060170137524, u'mode': 1, u'key': 1, u'duration': 180.8, u'loudness': -13.45, u'audio_md5': u'de48f11160ced97a7006d13c7f334d34', u'danceability': 0.7363185100382905} 
+25
+getting hits:My Song from Johnny Ace
+time for api call was: 0.254132032394 ms
+song name: My Song , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/jX1zRAryC3d_GnJfeF0GRB6iYNpsmUyGY7RP04/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246438&Signature=TWGDiYS9P58rzMM7vbqqnetmr/o%3D', u'energy': 0.2517856765190935, u'liveness': 0.11345133793403071, u'tempo': 104.0, u'speechiness': 0.034256830373386116, u'mode': 1, u'key': 0, u'duration': 177.42367, u'loudness': -17.869, u'audio_md5': u'c5f075b5deeed00a5e2700bbc1344ef3', u'danceability': 0.48125371848075127} 
+26
+getting hits:Goin' Home from Fats Domino
+time for api call was: 0.257458925247 ms
+song name: Goin' Home , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/_qtwUAebhHLiJmvhXBLW4sxm5H2Jkc8NiG7YQL/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246441&Signature=qsHXtmL/FCiXOK8jeSOH6tpuy9U%3D', u'energy': 0.6426601352308136, u'liveness': 0.1594578658822849, u'tempo': 96.179, u'speechiness': 0.029781200574930944, u'mode': 1, u'key': 4, u'duration': 126.77333, u'loudness': -13.758, u'audio_md5': u'82d1d246db953ab1fe658646c556bfcd', u'danceability': 0.31540829443166746} 
+27
+getting hits:Moody Mood For Love from King Pleasure
+time for api call was: 0.125841140747 ms
+28
+getting hits:Juke from Little Walter
+time for api call was: 0.474887132645 ms
+song name: Juke , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/aupZ3A2tsrALbZQDvBSDONi4-OcNOj8mBi6wkM/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246448&Signature=MtQ8NQIrwlwJLMb5uOoipcdu3fU%3D', u'energy': 0.6880187509867384, u'liveness': 0.22996737470378195, u'tempo': 146.587, u'speechiness': 0.035398324865672126, u'mode': 1, u'key': 4, u'duration': 161.12, u'loudness': -8.218, u'audio_md5': u'4d09a13e39269d51bedd356bd9071152', u'danceability': 0.5539394146377277} 
+29
+getting hits:Baby&comma;Don't Do It from 5 Royales
+time for api call was: 0.121731042862 ms
+30
+getting hits:Money Honey from Drifters featuring Clyde McPhatter
+time for api call was: 0.11602807045 ms
+31
+getting hits:Your Cheatin' Heart from Hank Williams
+time for api call was: 0.24539899826 ms
+song name: Your Cheatin' Heart , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/7dp-KQr2eiUfBBVcym7be-1Vs5vs24B5wgEhEz/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246458&Signature=5Gbifj93Aqk62v%2BX%2By8QrYbHl9g%3D', u'energy': 0.1530315980601992, u'liveness': 0.1049630581423962, u'tempo': 127.271, u'speechiness': 0.03988692754533307, u'mode': 1, u'key': 0, u'duration': 160.95456, u'loudness': -17.663, u'audio_md5': u'd94e763149bc811a3c019dc50f871f1b', u'danceability': 0.5884381231865287} 
+32
+getting hits:Crying In The Chapel from Orioles
+time for api call was: 0.258928060532 ms
+song name: Crying In The Chapel , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/ad3VRwg9e60GEmkDam87oDhLMCwGlF_wSYatOf/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246461&Signature=NT6dcE2UrDAjytqadv5BcPZrnsY%3D', u'energy': 0.18565175303137998, u'liveness': 0.2268663914167296, u'tempo': 90.033, u'speechiness': 0.027428582657881673, u'mode': 1, u'key': 1, u'duration': 185.78286, u'loudness': -7.486, u'audio_md5': u'ccaa49b4d76a509600c3d2ce3a82de94', u'danceability': 0.32337590249137627} 
+33
+getting hits:Gee from Crows
+time for api call was: 0.242520809174 ms
+song name: Gee , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/LOZ_Yg6RarSE9JYKoz3ZF45VzqT9fI8vO-CWqF/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246465&Signature=pJaAl5WZ7VOl/nxXfkHwrS4fx/8%3D', u'energy': 0.5065917433696926, u'liveness': 0.15018673298101623, u'tempo': 81.718, u'speechiness': 0.05649229264325528, u'mode': 1, u'key': 3, u'duration': 133.52599, u'loudness': -14.366, u'audio_md5': u'fc05adbf0410ff663f92afae95d79d34', u'danceability': 0.680258835199116} 
+34
+getting hits:Shake A Hand from Faye Adams
+time for api call was: 0.205860137939 ms
+song name: Shake A Hand , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/s8Ov-QY6vDgMz_grodBultEo0hEgeO8DZa0nJ3/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246468&Signature=/uKQw/BttCPbWeC%2BFngX9cySJoo%3D', u'energy': 0.6129683361210327, u'liveness': 0.31927026153439686, u'tempo': 106.993, u'speechiness': 0.037217503099562066, u'mode': 1, u'key': 3, u'duration': 172.65333, u'loudness': -11.565, u'audio_md5': u'a9179c0fcc9dfb6d16d2003b4f6ee3c5', u'danceability': 0.3753273227657957} 
+35
+getting hits:Honey Hush from Joe Turner
+time for api call was: 0.746999025345 ms
+song name: Honey Hush , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/6Q5b0wITHHfcZwIQaeHirP7ly8wTkzfW-IEiMf/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246472&Signature=m7Uxg1Bqk5z8M%2B1X6649gRJxauY%3D', u'energy': 0.7159148307896398, u'liveness': 0.17751800565489054, u'tempo': 83.089, u'speechiness': 0.07156573874749961, u'mode': 1, u'key': 0, u'duration': 160.74667, u'loudness': -10.013, u'audio_md5': u'732b08cb4d6d87496375b1e5c5cf969f', u'danceability': 0.5146708930557493} 
+36
+getting hits:Mama&comma;He Treats Your Daughter Mean from Ruth Brown
+time for api call was: 0.0916180610657 ms
+37
+getting hits:Hound Dog from Willie Mae "Big Mama" Thornton
+time for api call was: 0.127254009247 ms
+song name: Hound Dog , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/bqdGGAOGk2M4BnnHCDgIILI9cdF-iMnDS_B7uo/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246479&Signature=eSj9/UXkh7zuawY0hRFxYhyDack%3D', u'energy': 0.5608779644870613, u'liveness': 0.5813604355053964, u'tempo': 77.111, u'speechiness': 0.09345813949641368, u'mode': 0, u'key': 9, u'duration': 167.58667, u'loudness': -13.665, u'audio_md5': u'9b30030c9e1313b216c5ebb547c234ec', u'danceability': 0.7166112358987793} 
+38
+getting hits:Kaw-Liga from Hank Williams
+time for api call was: 0.515786886215 ms
+song name: Kaw-Liga , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/OcCK2wsvRYu7qPjXdgqHZk4Ij81Kg8N4C-ycQP/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246482&Signature=88B1U17HBIHOEEb7kAMEu%2BhORr4%3D', u'energy': 0.42183488180083634, u'liveness': 0.1177430714479386, u'tempo': 109.797, u'speechiness': 0.0442672653154661, u'mode': 1, u'key': 4, u'duration': 154.70757, u'loudness': -18.425, u'audio_md5': u'71f54d61054f22a9e3b7807eee6e48ab', u'danceability': 0.6099773724240187} 
+39
+getting hits:The Things That I Used To Do from Guitar Slim
+time for api call was: 0.196801900864 ms
+song name: The Things That I Used To Do , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/hpfwJgcJaLgS8uqEB8rCSze4wd5jsWIojNF8_h/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246486&Signature=EQkF18uIm4RYMwumlS2YifohRCE%3D', u'energy': 0.631813366732918, u'liveness': 0.10737473817063098, u'tempo': 113.543, u'speechiness': 0.03877376336515681, u'mode': 1, u'key': 5, u'duration': 242.49333, u'loudness': -10.36, u'audio_md5': u'bdbfd5f04c204d635d9811bcf083c52e', u'danceability': 0.41018399334936656} 
+40
+getting hits:Rock Around The Clock from Bill Haley & His Comets
+time for api call was: 0.22843003273 ms
+song name: Rock Around The Clock , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/R9gIDQuEpgGzVbOlOEofIWJy1tzN0Nz8zjBh8Y/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246489&Signature=efBf0THrRTT8Bga1a41XA9v4nbc%3D', u'energy': 0.8882371983814957, u'liveness': 0.9421147830937638, u'tempo': 103.074, u'speechiness': 0.14276264453476145, u'mode': 0, u'key': 1, u'duration': 128.10667, u'loudness': -8.099, u'audio_md5': u'c918a5887e3b3ea1131aee4369618f9c', u'danceability': 0.6854681545588435} 
+41
+getting hits:Shake&comma;Rattle And Roll from Joe Turner / Bill Haley & His Comets
+time for api call was: 0.128180027008 ms
+42
+getting hits:Earth Angel from Penguins
+time for api call was: 0.196171998978 ms
+song name: Earth Angel , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/5Ejybg8FRSDeQ2VMwx7NPrCaqRyQLVtgKg6Z09/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246496&Signature=XbkZyng7SXItL6fbRx5hCznyTEo%3D', u'energy': 0.21463806113653694, u'liveness': 0.14140842930961647, u'tempo': 87.541, u'speechiness': 0.027784712095163255, u'mode': 1, u'key': 2, u'duration': 185.44, u'loudness': -9.434, u'audio_md5': u'36aa563eb8da891f0e0ac9e143497ea3', u'danceability': 0.349625304049466} 
+43
+getting hits:Sh-Boom from Chords
+time for api call was: 0.24565911293 ms
+song name: Sh-Boom , {u'time_signature': 5, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/1F_pCg0SS2bi_zZV9qysvqoMvrLvGC40ZQv-VC/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246499&Signature=0UQEtHSzGu55QmvS0iCNWvA3MZ4%3D', u'energy': 0.42799085183160646, u'liveness': 0.06503188438161427, u'tempo': 85.574, u'speechiness': 0.6901121729797415, u'mode': 1, u'key': 9, u'duration': 137.78667, u'loudness': -9.871, u'audio_md5': u'32359c4f6bb595fc490c65c8ae0322b7', u'danceability': 0.6073507019574688} 
+44
+getting hits:That's All Right from Elvis Presley with Scotty and Bill
+time for api call was: 0.131221055984 ms
+45
+getting hits:Pledging My Love from Johnny Ace
+time for api call was: 0.553854942322 ms
+song name: Pledging My Love , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/DzDAaQAXagdRLYlz2JDJoE89UBLpEwhj0Gz_Kq/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246506&Signature=icbJMMUzTOY3UIZxoKmOnxCEm%2BM%3D', u'energy': 0.3731261183523783, u'liveness': 0.1959561764351995, u'tempo': 92.341, u'speechiness': 0.030292357506817302, u'mode': 1, u'key': 0, u'duration': 146.85333, u'loudness': -9.57, u'audio_md5': u'a9cdebb15669765d3ceb0514daf93b98', u'danceability': 0.2926940941051311} 
+46
+getting hits:Goodnite Sweetheart Goodnite from Spaniels
+time for api call was: 0.127883911133 ms
+song name: Goodnite Sweetheart Goodnite , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/XZnsFQBVgJwo85Mb1bnzjJ30W5UwQU9UTxOMBR/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246509&Signature=Bht%2B7DpMii8GsR2jj4v/OArrv3s%3D', u'energy': 0.2960365168235403, u'liveness': 0.1424670479213789, u'tempo': 74.847, u'speechiness': 0.06377281441542898, u'mode': 1, u'key': 2, u'duration': 166.16, u'loudness': -12.079, u'audio_md5': u'13b211677c1d6d608eadc67dab0f15f6', u'danceability': 0.42969123430334344} 
+47
+getting hits:I've Got A Woman from Ray Charles
+time for api call was: 0.125773906708 ms
+song name: I've Got A Woman , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/fmrE-gHT3dxxalYj0YLlB5YDehRj1toyEmFEgf/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246513&Signature=YxYV15VKcg/cOQqxKdmxV7lX/Uk%3D', u'energy': 0.5460902836658215, u'liveness': 0.43604364285577746, u'tempo': 100.264, u'speechiness': 0.3897351355160166, u'mode': 1, u'key': 9, u'duration': 168.9219, u'loudness': -21.367, u'audio_md5': u'58becdb3a892715fdf2a2f31e17f4f10', u'danceability': 0.6692422141235675} 
+48
+getting hits:White Christmas from Drifters featuring Clyde McPhatter
+time for api call was: 0.1578810215 ms
+49
+getting hits:Work With Me Annie from Royals / Midnighters
+time for api call was: 0.232177019119 ms
+50
+getting hits:Tutti-Frutti from Little Richard
+time for api call was: 0.609117031097 ms
+song name: Tutti-Frutti , {u'time_signature': 1, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/NClvgA3aafIPnHhS27uwNdxIrZ_QLhcVoAFzBruI5LvMg7-mV7exQNxHyG1A%3D%3D/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246523&Signature=/CbRfjbW9dftY%2Bpay2NDBnNz0JA%3D', u'energy': 0.9210771540153908, u'liveness': 0.0831610495116959, u'tempo': 125.572, u'speechiness': 0.13789589632206273, u'mode': 1, u'key': 1, u'duration': 145.1083, u'loudness': -16.456, u'audio_md5': u'620f93a7780d8ab086ef188cd4874981', u'danceability': 0.5063400167877351} 
+51
+getting hits:Maybellene from Chuck Berry
+time for api call was: 0.429550170898 ms
+song name: Maybellene , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/1-vECgf4WtnfYI1ZEuy9Tn4F_g6Pvlssin3Opc/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246527&Signature=8Q1oCnIy/RyB/bVPdKLfq6x9NuA%3D', u'energy': 0.7304693445576855, u'liveness': 0.8978695116064389, u'tempo': 108.433, u'speechiness': 0.05481212112054362, u'mode': 0, u'key': 0, u'duration': 203.80735, u'loudness': -10.424, u'audio_md5': u'28055eb89ce1ae1d4740db8b76ad84c1', u'danceability': 0.44585237566182917} 
+52
+getting hits:Bo Diddley from Bo Diddley
+time for api call was: 0.233369112015 ms
+song name: Bo Diddley , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/wRoIwgZiE2iaojI6qtGNI9L-ZArwjloJ-t_CLw/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246530&Signature=r6mYIWvglUZ29USlzsCJ7%2BoJMq0%3D', u'energy': 0.8196946728484185, u'liveness': 0.08285999872637347, u'tempo': 114.296, u'speechiness': 0.0776776378734993, u'mode': 0, u'key': 4, u'duration': 272.41905, u'loudness': -12.013, u'audio_md5': u'3c0316dd4289e7556c8e29f674775347', u'danceability': 0.5983252401883685} 
+53
+getting hits:Why Do Fools Fall In Love from Teenagers
+time for api call was: 0.262386083603 ms
+song name: Why Do Fools Fall In Love , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/0v3ssQElQPqjWlrKQVxFk_0L6Vs47nk_CTvf19/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246534&Signature=oLMD9X1Jc8GlR24BpsI0aWb95Pc%3D', u'energy': 0.6057013849040195, u'liveness': 0.24046120998864304, u'tempo': 94.79, u'speechiness': 0.03749292645053781, u'mode': 0, u'key': 1, u'duration': 161.04054, u'loudness': -9.451, u'audio_md5': u'b00b29ec977985bf52c40c938df1c7a7', u'danceability': 0.3651753713933436} 
+54
+getting hits:The Great Pretender from Platters
+time for api call was: 0.320163011551 ms
+song name: The Great Pretender , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/7PDhnwVlbiFWks3LXUiR5xIgrGfzKi1nuAkKXG/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246537&Signature=hCQU9N3ZnyCR2SH2tESvUj%2BKvJ0%3D', u'energy': 0.37842452017495154, u'liveness': 0.21651918731853556, u'tempo': 90.034, u'speechiness': 0.025775201934489123, u'mode': 1, u'key': 8, u'duration': 200.16, u'loudness': -7.454, u'audio_md5': u'3491c5f306b569743afe725ba3a9ab21', u'danceability': 0.4805464635822827} 
+55
+getting hits:Ain't It A Shame from Fats Domino
+time for api call was: 0.174945831299 ms
+song name: Ain't It A Shame , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/hCX94gm3CXnrjWpMz9fzHmTUNFwOmObJ2gUxlv/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246541&Signature=gxGGOTq7S4WkMF9Flf9dibEmzWI%3D', u'energy': 0.5976126987808545, u'liveness': 0.09506456393408415, u'tempo': 92.953, u'speechiness': 0.037165497531889025, u'mode': 1, u'key': 11, u'duration': 147.16, u'loudness': -6.277, u'audio_md5': u'436ea04cdad2318b90ddd653a08b0306', u'danceability': 0.37558835855438777} 
+56
+getting hits:Folsom Prison Blues from Johnny Cash and the Tennessee Two
+time for api call was: 0.373837947845 ms
+57
+getting hits:Speedoo from Cadillacs
+time for api call was: 0.247104883194 ms
+song name: Speedoo , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/mq4HIA92IMoq3jSkI1ioU2slHoL8sMTSoXqABM/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246547&Signature=vNvg6vAxkY8ADMToEPemo06pbQU%3D', u'energy': 0.7801560070398111, u'liveness': 0.9743502026181515, u'tempo': 127.771, u'speechiness': 0.12223455887621926, u'mode': 1, u'key': 8, u'duration': 149.66667, u'loudness': -12.928, u'audio_md5': u'404adb7f83af71206a141e05ab2c1082', u'danceability': 0.6366140271855094} 
+58
+getting hits:Story Untold from Nutmegs
+time for api call was: 0.343394994736 ms
+song name: Story Untold , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/EFJPXAyQ05OQSP5JBYINS-XtRRlyftvLz0yNFf/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246551&Signature=0biqeLy9wxo1nY3YsiA0jeObw2o%3D', u'energy': 0.39706608692997486, u'liveness': 0.9488037630450918, u'tempo': 101.532, u'speechiness': 0.032506647765972285, u'mode': 1, u'key': 1, u'duration': 153.89333, u'loudness': -10.923, u'audio_md5': u'507188d201fc441a331bac99c1affe8d', u'danceability': 0.5007030040179314} 
+59
+getting hits:My Babe from Little Walter
+time for api call was: 0.224456787109 ms
+song name: My Babe , {u'time_signature': 0, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/ET1TaAScF758aSaGckMworCvlaTHos0iQ5xW2X/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246554&Signature=3PZFsScxBlsqIanq9Q4DJHb5N/k%3D', u'energy': 0.31945515263265534, u'liveness': 0.16327356667207957, u'tempo': 0.0, u'speechiness': 0.10167554001444229, u'mode': 1, u'key': 5, u'duration': 156.92, u'loudness': -12.552, u'audio_md5': u'8e66649fd12fb279797bb56191cbfa6a', u'danceability': 0.0} 
+60
+getting hits:Hound Dog from Elvis Presley
+time for api call was: 0.292558908463 ms
+song name: Hound Dog , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/08Q55gSX_0325frUoRE6RN0XXOJg%3D%3D/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246558&Signature=tcqJBXioyOnZDgL0xNILlQZOjkc%3D', u'energy': 0.7766060212996329, u'liveness': 0.9080116829562017, u'tempo': 96.326, u'speechiness': 0.031316942152932015, u'mode': 1, u'key': 5, u'duration': 46.54667, u'loudness': -9.293, u'audio_md5': u'6e35e197cc1646feb090e3314d708b19', u'danceability': 0.44755336042143856} 
+0
+getting hits:Long Tall Sally from Little Richard
+time for api call was: 1.91466498375 ms
+song name: Long Tall Sally , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/CJdZfwZSZDjcx1oSJKzcS2zYnYt3HFp4fsts8g/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246623&Signature=Z7GR5ANzFX7BbStF74zJ0GHE4dM%3D', u'energy': 0.6679668397348879, u'liveness': 0.29546021327885497, u'tempo': 92.094, u'speechiness': 0.05593997240521481, u'mode': 1, u'key': 5, u'duration': 132.78667, u'loudness': -5.751, u'audio_md5': u'18935be4a24318dd201698237f705bf2', u'danceability': 0.4927488768385058} 
+1
+getting hits:Blue Suede Shoes from Carl Perkins / Elvis Presley
+time for api call was: 0.249284982681 ms
+2
+getting hits:Don't Be Cruel from Elvis Presley
+time for api call was: 0.193750143051 ms
+song name: Don't Be Cruel , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/bWiHIQnImC3L4xmwmH_Or-EJBSju7CXAq1UfAA/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246630&Signature=gX%2BCphYbaNklL6uHzxwO9p7lz1Q%3D', u'energy': 0.630158295738116, u'liveness': 0.11034034236519279, u'tempo': 116.498, u'speechiness': 0.05055984927748969, u'mode': 1, u'key': 2, u'duration': 102.81751, u'loudness': -17.103, u'audio_md5': u'7ededf3ac883e8e47c2590d692d19894', u'danceability': 0.7236008250176797} 
+3
+getting hits:Be-Bop-A-Lula from Gene Vincent & the Bluecaps
+time for api call was: 0.168329000473 ms
+song name: Be-Bop-A-Lula , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/xGp_OAgI_gIxwbbDMzdj_JaRMvfQQ4eh5qxfK0/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246633&Signature=nAZy45MK/SeIMaTi8PASoYXCAF0%3D', u'energy': 0.7558956959403111, u'liveness': 0.49922557237336646, u'tempo': 78.875, u'speechiness': 0.04621360049377543, u'mode': 1, u'key': 4, u'duration': 131.73333, u'loudness': -10.713, u'audio_md5': u'a56d4ff053dc9651ccb6b140d5bbf040', u'danceability': 0.4973053157180108} 
+4
+getting hits:Roll Over Beethoven from Chuck Berry
+time for api call was: 0.136898994446 ms
+song name: Roll Over Beethoven , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/q0EWZgH55aOaz6LnY4HO-GhiIuqh5bVaPxRIAb/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246636&Signature=foqazXJIZr%2BBXXQojvAY4SAZuEs%3D', u'energy': 0.8347932248290552, u'liveness': 0.36759959176147317, u'tempo': 91.966, u'speechiness': 0.15698731542903765, u'mode': 1, u'key': 8, u'duration': 144.09143, u'loudness': -7.855, u'audio_md5': u'0288341ac5e06d51c4717180ede5ce79', u'danceability': 0.7204183261628356} 
+5
+getting hits:In The Still Of The Nite from Five Satins
+time for api call was: 0.0875420570374 ms
+song name: In The Still Of The Nite , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/WnvBfg2K4B3zLCwEy5YiRW8kVRlxL8mh06hNTA/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246640&Signature=cUOkMKMNhzg2%2BVZxdzNGWIdU%2BAA%3D', u'energy': 0.3664466761689783, u'liveness': 0.09598545349360676, u'tempo': 107.152, u'speechiness': 0.02740331652091138, u'mode': 1, u'key': 5, u'duration': 186.58068, u'loudness': -11.232, u'audio_md5': u'6d37afabd1e2347c35265adfe0e0950a', u'danceability': 0.5523346463132343} 
+6
+getting hits:Blueberry Hill from Fats Domino
+time for api call was: 0.342262983322 ms
+song name: Blueberry Hill , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/d2ioHQo5ZfxY9pRsnBHiWJXfE8NFCoWF7Mksob/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246643&Signature=jZvpO0Q0Mfs8CZ/N/sRgkOMaS2A%3D', u'energy': 0.5072150869559676, u'liveness': 0.3714185713219794, u'tempo': 72.849, u'speechiness': 0.03455858964008335, u'mode': 1, u'key': 10, u'duration': 139.77333, u'loudness': -12.447, u'audio_md5': u'c0211954a36d16b7a85b583f90b9f823', u'danceability': 0.31354159287235434} 
+7
+getting hits:Please&comma;Please&comma;Please from James Brown & the Famous Flames
+time for api call was: 0.247828006744 ms
+8
+getting hits:I Walk The Line from Johnny Cash and the Tennessee Two
+time for api call was: 0.149258136749 ms
+9
+getting hits:Jailhouse Rock from Elvis Presley
+time for api call was: 0.428955078125 ms
+song name: Jailhouse Rock , {u'time_signature': 1, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/_mec0wqgZzkKECO17eo6F5Acg_c5EeIit4-IE-M80oOisWUNZL1AJh1r7uhQ%3D%3D/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246653&Signature=msM/zMNP8du4FpgLu%2BQNzcAZFkc%3D', u'energy': 0.7282780519071829, u'liveness': 0.06302140637766719, u'tempo': 164.871, u'speechiness': 0.18120996414299761, u'mode': 0, u'key': 10, u'duration': 149.19211, u'loudness': -6.26, u'audio_md5': u'2a0d3b176c1f4de1a5b582d269c7ec74', u'danceability': 0.5875938962346334} 
+10
+getting hits:Whole Lot of Shakin' Going On from Jerry Lee Lewis
+time for api call was: 0.265245914459 ms
+song name: Whole Lot of Shakin' Going On , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/Ro7PWQSiq0htxN0GXEQFyxLBUYq-KhUEVfJvNq/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246657&Signature=87pLh9dObD6URblIkuXmjG/oaNM%3D', u'energy': 0.7490104349598301, u'liveness': 0.12239777537686944, u'tempo': 80.943, u'speechiness': 0.033763785132444435, u'mode': 1, u'key': 0, u'duration': 177.93415, u'loudness': -9.489, u'audio_md5': u'c18a5a9d56a9852f181773df3a140f6d', u'danceability': 0.45331447200560226} 
+11
+getting hits:That'll Be The Day from Crickets
+time for api call was: 0.306363105774 ms
+song name: That'll Be The Day , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/vyd7rwLjScUIVpnjioEIuPceYTZByvGxYGc66W/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246660&Signature=OtyKAC0aLR0Jh25LDV2O%2BkPP%2B7Y%3D', u'energy': 0.3383188041525737, u'liveness': 0.33638739917581956, u'tempo': 120.915, u'speechiness': 0.04441580451311139, u'mode': 1, u'key': 9, u'duration': 143.4, u'loudness': -15.635, u'audio_md5': u'73dcb24d4b341523cad30ad0b85f39bb', u'danceability': 0.6768538929180151} 
+12
+getting hits:Bye Bye Love from Everly Brothers
+time for api call was: 0.431588888168 ms
+song name: Bye Bye Love , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/UNPdTAjapEz7OntkaQ3VZUT9grfEsXpqicUIJh/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246664&Signature=vK4M6qXczFjIaGz2P6942lR/MuA%3D', u'energy': 0.6058918893813878, u'liveness': 0.09057017978990961, u'tempo': 86.768, u'speechiness': 0.0527080625538176, u'mode': 1, u'key': 9, u'duration': 139.0, u'loudness': -5.269, u'audio_md5': u'076c4722e9d7bcfd6369eef8057a873a', u'danceability': 0.5738482275260294} 
+13
+getting hits:Great Balls Of Fire from Jerry Lee Lewis
+time for api call was: 0.215188026428 ms
+song name: Great Balls Of Fire , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/4U7VHAvAJQpzrnYv24w0kwalzosbBVA8ovQXuL/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246667&Signature=I1pWQFTfBLTobQFImMswdvJXmac%3D', u'energy': 0.6008483001381286, u'liveness': 0.47275814649205067, u'tempo': 80.055, u'speechiness': 0.12577670245757416, u'mode': 1, u'key': 10, u'duration': 43.70286, u'loudness': -13.702, u'audio_md5': u'dd9c52f7ce213e7a6607f256da49acc2', u'danceability': 0.6528694658248201} 
+14
+getting hits:School Day from Chuck Berry
+time for api call was: 0.309057950974 ms
+song name: School Day , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/b2GZ1Qtc1dcbI1-bcVv08X3D7RWil0Ii1fyRqj/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246671&Signature=pgM2F%2BIVBZPA67uSR1%2BzezL5TiU%3D', u'energy': 0.8026836056749973, u'liveness': 0.21848273076995142, u'tempo': 66.04, u'speechiness': 0.05697393530155781, u'mode': 1, u'key': 7, u'duration': 158.73161, u'loudness': -6.071, u'audio_md5': u'c98abb6f121da0f92fa023df75e3c0e3', u'danceability': 0.6713908317557863} 
+15
+getting hits:Rock And Roll Music from Chuck Berry
+time for api call was: 0.243303060532 ms
+song name: Rock And Roll Music , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/oRQIcQ4QW3ZlQGduavKCcdIS1bCOlHlOOoNQe3/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246674&Signature=%2B6jf4N6avnnTvrCHsA7vblFJ1bw%3D', u'energy': 0.6491906600904126, u'liveness': 0.07476606111270614, u'tempo': 83.271, u'speechiness': 0.09132084057997969, u'mode': 1, u'key': 3, u'duration': 160.90667, u'loudness': -6.519, u'audio_md5': u'a57dfaef25e96a92e4abc4a11d8b085c', u'danceability': 0.7913112114180113} 
+16
+getting hits:Peggy Sue from Buddy Holly
+time for api call was: 0.412040948868 ms
+song name: Peggy Sue , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/NyrHVAnEgPg6vdrJXm-8FzXwWpU33JLk8RJCuz/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246678&Signature=PBT0n1cWLmY1t%2BVU1p2rwAk7ZhY%3D', u'energy': 0.32414443154733236, u'liveness': 0.18561429201106525, u'tempo': 148.249, u'speechiness': 0.03127255914826993, u'mode': 1, u'key': 9, u'duration': 149.08082, u'loudness': -10.908, u'audio_md5': u'a45f7b2aa9ba9e35b0bda87c50302627', u'danceability': 0.648741745775244} 
+17
+getting hits:Lucille from Little Richard
+time for api call was: 0.322381019592 ms
+song name: Lucille , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/tpyQLAMuw7orDx_q8nfli_SvllLGRQnbi5FOYM/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246682&Signature=czlLSUq8303a2MHUT5TkUGAuSq4%3D', u'energy': 0.7438529683334988, u'liveness': 0.05077253091299395, u'tempo': 135.275, u'speechiness': 0.04577270921150922, u'mode': 1, u'key': 1, u'duration': 148.66667, u'loudness': -11.787, u'audio_md5': u'b38859e1e2db90a1f71ece7758c7edd2', u'danceability': 0.563426191900956} 
+18
+getting hits:Rocking Pneumonia & the Boogie Woogie Flu from Huey "Piano" Smith & the Clowns
+time for api call was: 0.126602888107 ms
+19
+getting hits:Johnny B. Goode from Chuck Berry
+time for api call was: 0.198263883591 ms
+song name: Johnny B. Goode , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/C1q-5AApTBmLx6ZmmC3Ja_WFt2quY_bKRa-Zr0/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246688&Signature=4VltawT5IFjyQkEh4vSdQDbd6Ok%3D', u'energy': 0.8311336660987888, u'liveness': 0.5753101339550115, u'tempo': 82.499, u'speechiness': 0.06834879517781695, u'mode': 1, u'key': 10, u'duration': 291.96, u'loudness': -8.519, u'audio_md5': u'c2c180fa8aadfc593126700c79f60ac5', u'danceability': 0.5844231893371191} 
+20
+getting hits:Summertime Blues from Eddie Cochran
+time for api call was: 0.193677186966 ms
+song name: Summertime Blues , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/1C1N3gqz5tYOItOGlaPO93tA-7OWG4OQ_h1XA6/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246692&Signature=uo6EmezuHgu1eynx46LB2%2ByIS/g%3D', u'energy': 0.750082665702826, u'liveness': 0.20417209063808844, u'tempo': 158.038, u'speechiness': 0.05123198468789092, u'mode': 1, u'key': 4, u'duration': 120.81333, u'loudness': -6.249, u'audio_md5': u'391639d241eaedcbe0bb97598af77e73', u'danceability': 0.7466466186135217} 
+21
+getting hits:Good Golly Miss Molly from Little Richard
+time for api call was: 0.21870803833 ms
+song name: Good Golly Miss Molly , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/2ePJWg5UZ4FKq-6EshINcJmdgTowJx-ug2kWhy/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246695&Signature=ZrgpYiFoRGmLihju%2BMRjztpqLtA%3D', u'energy': 0.8447588599794404, u'liveness': 0.25163993359493736, u'tempo': 77.088, u'speechiness': 0.05534746966679782, u'mode': 1, u'key': 1, u'duration': 128.89333, u'loudness': -9.565, u'audio_md5': u'ef777587c5e0bf4eaa92e91ba1e409b4', u'danceability': 0.3721140613931796} 
+22
+getting hits:For Your Precious Love from Jerry Butler & the Impressions
+time for api call was: 0.539448976517 ms
+song name: For Your Precious Love , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/zPFvTQzq-WJWrHKayTKyPArIE_wNA3gDRE5dXJ/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246699&Signature=pv2jDGO8bMDZJ5pk8PxqKwEECpw%3D', u'energy': 0.11131900852977836, u'liveness': 0.11118074197385128, u'tempo': 80.735, u'speechiness': 0.027696206111296418, u'mode': 1, u'key': 1, u'duration': 164.09333, u'loudness': -9.548, u'audio_md5': u'307fa48313020b75d7a37787924d6a20', u'danceability': 0.4102330508519812} 
+23
+getting hits:Sweet Little Sixteen from Chuck Berry
+time for api call was: 0.277855157852 ms
+song name: Sweet Little Sixteen , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/2JyCow05f_IUgF5idVRoP12NmS7jJdNRlqHce9/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246702&Signature=tN3iENUdjF4QBIGcKX7S1AQfvYY%3D', u'energy': 0.5420609424652537, u'liveness': 0.6928894296899457, u'tempo': 78.212, u'speechiness': 0.03197532978559103, u'mode': 0, u'key': 10, u'duration': 237.32, u'loudness': -12.703, u'audio_md5': u'e202f31e8f0674259feb1e5b7ce410d4', u'danceability': 0.5860581226000656} 
+24
+getting hits:Yakety Yak from Coasters
+time for api call was: 0.300899028778 ms
+song name: Yakety Yak , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/abDHZQ8i41jhsny1-8XC90v0w2ZUmhEDOHpslc/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246706&Signature=TBNWf5UizUjK/MdSicCZg24gQLk%3D', u'energy': 0.9108156702094783, u'liveness': 0.08392419288835247, u'tempo': 125.356, u'speechiness': 0.04809859419891249, u'mode': 1, u'key': 8, u'duration': 116.18667, u'loudness': -13.568, u'audio_md5': u'0cd94ff425000a54bd08cc44a54530ba', u'danceability': 0.6234440096274613} 
+25
+getting hits:La Bamba from Ritchie Valens
+time for api call was: 0.326598882675 ms
+song name: La Bamba , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/bDuuDA5X7gWQc0JTlqVXqjQ_Ti33lBleBZcXD2/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246709&Signature=b%2BPH7iTW/L4f3IC0ER61vWE09HA%3D', u'energy': 0.633468717223852, u'liveness': 0.39773786890615637, u'tempo': 75.63, u'speechiness': 0.04661869508735572, u'mode': 1, u'key': 7, u'duration': 125.82667, u'loudness': -9.462, u'audio_md5': u'b78540c1c03f83a29595339152ea9c6c', u'danceability': 0.5699447328120993} 
+26
+getting hits:Since I Don't Have You from Skyliners
+time for api call was: 0.173738002777 ms
+song name: Since I Don't Have You , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/TREEGIN134E9B613C5/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246713&Signature=bZIZxSxzUs/UOeX0EGTXr9/Gwo0%3D', u'energy': 0.4692950091193269, u'liveness': 0.24910077214563328, u'tempo': 108.569, u'speechiness': 0.03141531405728287, u'mode': 1, u'key': 6, u'duration': 157.36118, u'loudness': -9.317, u'audio_md5': u'654a19f1b2f125501864b7d52077f2d9', u'danceability': 0.32162516126555846} 
+27
+getting hits:Rumble from Link Wray
+time for api call was: 0.131088972092 ms
+song name: Rumble , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/AaTEoA4EwmI8wgHB5z7uaoXGDhM-X-CbgpPTQh/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246716&Signature=Y4j2OLDKmrs/EU10a1wUNt6r3z8%3D', u'energy': 0.7957567965920491, u'liveness': 0.5774135661413884, u'tempo': 85.802, u'speechiness': 0.04271202537597607, u'mode': 1, u'key': 9, u'duration': 198.02231, u'loudness': -13.526, u'audio_md5': u'9bb35df3db03b2ac716c2416d7b09c0d', u'danceability': 0.28510660094513973} 
+28
+getting hits:Lonely Teardrops from Jackie Wilson
+time for api call was: 0.245109081268 ms
+song name: Lonely Teardrops , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/r-6vQQSVlESyykPiyqancF3TuW020JwongsVZJ/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246720&Signature=NRoMpiPxVmX403yhhDE9vuas7Dg%3D', u'energy': 0.6931219111512882, u'liveness': 0.07926935153559615, u'tempo': 139.778, u'speechiness': 0.09559307551663682, u'mode': 1, u'key': 7, u'duration': 164.0, u'loudness': -11.962, u'audio_md5': u'b73cc90e11bf21709197a3570fe2a2f0', u'danceability': 0.5384556593565848} 
+29
+getting hits:What'd I Say from Ray Charles
+time for api call was: 0.204931020737 ms
+song name: What'd I Say , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/nhb6QAUC7kmyqXbhtjowwdsHkIL-ZOQLbZSKXD/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246723&Signature=Yp8%2B4UMu/RS%2BZC/qGZZLD5A92WA%3D', u'energy': 0.6874157431504607, u'liveness': 0.08838837346096391, u'tempo': 96.117, u'speechiness': 0.08220880515887996, u'mode': 0, u'key': 11, u'duration': 331.04, u'loudness': -8.726, u'audio_md5': u'aa2d9450e0d472f1c16d1ec7c824d37d', u'danceability': 0.8327031806117752} 
+30
+getting hits:I Only Have Eyes For You from Flamingos
+time for api call was: 0.224912881851 ms
+song name: I Only Have Eyes For You , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/uvio9QHWOkzqk8g-V9utuHZpAdegAKQcQghje6/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246726&Signature=hQ9LOYjpVvEH/va8329wWZ0hpY0%3D', u'energy': 0.3962120950481752, u'liveness': 0.185736360031221, u'tempo': 89.285, u'speechiness': 0.026675259098432824, u'mode': 1, u'key': 5, u'duration': 199.50667, u'loudness': -11.077, u'audio_md5': u'a4f7da6520c14605ad14d1552340e441', u'danceability': 0.5234044392455214} 
+31
+getting hits:Mack The Knife from Bobby Darin
+time for api call was: 0.834791898727 ms
+song name: Mack The Knife , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/8NEG8QJ6vquB1mdYqc5BAodSs07jhnJXYKR10E/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246730&Signature=iE0isZmbIvdf5VPukZDU7BbWHq4%3D', u'energy': 0.694405222860424, u'liveness': 0.3761040083989027, u'tempo': 84.099, u'speechiness': 0.057601122396663706, u'mode': 1, u'key': 3, u'duration': 182.04444, u'loudness': -12.332, u'audio_md5': u'f8540e8f1ee5d6b4a116ecfa4a3ccd76', u'danceability': 0.49205674066231114} 
+32
+getting hits:There Goes My Baby from Drifters
+time for api call was: 0.311589002609 ms
+song name: There Goes My Baby , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/6U_tJQji382c2xYpUp5c2xeFYAjeG41p-MWk5O/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246734&Signature=YIdTAvoyApiBTkcOT1YT9yETlKY%3D', u'energy': 0.7116859843902779, u'liveness': 0.6429992735209552, u'tempo': 60.02, u'speechiness': 0.034395494997462084, u'mode': 1, u'key': 4, u'duration': 131.7873, u'loudness': -8.479, u'audio_md5': u'abdc2f86bcd6692ffe8100bd05d3e267', u'danceability': 0.302033886533364} 
+33
+getting hits:Shout from Isley Brothers
+time for api call was: 0.193943023682 ms
+song name: Shout , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/aQlVlgkeoRoxmsKSePdfX2lfXun7lWseBNJVLu/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246738&Signature=94XmPOR3o/5I18hbhUpFct52044%3D', u'energy': 0.8808489142115129, u'liveness': 0.34584967908732234, u'tempo': 137.173, u'speechiness': 0.08688689907793912, u'mode': 1, u'key': 10, u'duration': 144.37333, u'loudness': -9.629, u'audio_md5': u'63d6e5fc18c21ce5fa762ef572416c22', u'danceability': 0.388031352096915} 
+34
+getting hits:Kansas City from Wilbert Harrison
+time for api call was: 0.224414110184 ms
+song name: Kansas City , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/o98ekwPSLaPDtwLFYSgtE1a8hmogZRxhPePJRb/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246742&Signature=xYt0woa2DCkZPqUsmkUjcutcebM%3D', u'energy': 0.400467505329017, u'liveness': 0.11646226895863074, u'tempo': 118.131, u'speechiness': 0.030443687109993067, u'mode': 1, u'key': 1, u'duration': 142.94667, u'loudness': -8.411, u'audio_md5': u'8ec9f56119a0aaf1e7d0bc66fd835903', u'danceability': 0.6461998755596555} 
+35
+getting hits:Poison Ivy from Coasters
+time for api call was: 0.250905990601 ms
+song name: Poison Ivy , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/qT-9Lwuf5JnVwhXpGP6aDRmrA3YCVfZ8ZWxmrf/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246745&Signature=ESJ2CtwaFgi7Sy0v405llRuGtUM%3D', u'energy': 0.7698369198973604, u'liveness': 0.7178100588586649, u'tempo': 136.104, u'speechiness': 0.24188762704815603, u'mode': 1, u'key': 1, u'duration': 198.81333, u'loudness': -12.519, u'audio_md5': u'85806eaebe1ba8acd99a6adf882d9b60', u'danceability': 0.4797662933708194} 
+36
+getting hits:Money from Barrett Strong
+time for api call was: 0.189584970474 ms
+song name: Money , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/r6YdFgxj_q0dbp9n_Hp8s82xVJDK_H_lNbSiry/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246748&Signature=LRxOXLPP4eugrNZJOnU0cOSoBIQ%3D', u'energy': 0.5030855781512514, u'liveness': 0.4733894071856131, u'tempo': 128.389, u'speechiness': 0.031129654861065725, u'mode': 1, u'key': 0, u'duration': 157.32354, u'loudness': -5.882, u'audio_md5': u'c2ecdb677f1556722fbe45d6e0f68470', u'danceability': 0.6890067734026591} 
+37
+getting hits:Love Potion No. 9 from Clovers
+time for api call was: 0.277143955231 ms
+song name: Love Potion No. 9 , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/HnvXGQfPJIiOlWIbEfbvu0_Z95Qb6iznk24HaQ/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246752&Signature=Q6vDP0c%2BCr5wZs7EnrKgcwB2V70%3D', u'energy': 0.673212709184824, u'liveness': 0.16414017585084884, u'tempo': 128.588, u'speechiness': 0.06663104615143262, u'mode': 1, u'key': 9, u'duration': 112.02612, u'loudness': -6.379, u'audio_md5': u'34c6d2bb721da44127514a1aa9caf0fc', u'danceability': 0.622218633132657} 
+38
+getting hits:You're So Fine from Falcons
+time for api call was: 0.239276885986 ms
+song name: You're So Fine , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/utsHHQZPxu-0b9ykwDOgYXlWAtdRNxpU4-LpEB/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246755&Signature=f3%2B7Kh82pCc7XnApbRNwWLZcTYQ%3D', u'energy': 0.4417116267830129, u'liveness': 0.10986416376169136, u'tempo': 119.144, u'speechiness': 0.048981452338972165, u'mode': 1, u'key': 6, u'duration': 148.43937, u'loudness': -15.27, u'audio_md5': u'57dacab9f6219777b7881d1e32e9ed4b', u'danceability': 0.533831582360323} 
+39
+getting hits:Will You Love Me Tomorrow from Shirelles
+time for api call was: 0.274561882019 ms
+song name: Will You Love Me Tomorrow , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/nt6YoQExF62SCbxhEtfbfgfGLtaLUs6oHNKWxr/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246759&Signature=WRnixge32vje8VjThGoam/Ce65Q%3D', u'energy': 0.42708942051310234, u'liveness': 0.3866546750927498, u'tempo': 137.218, u'speechiness': 0.026275002805925207, u'mode': 1, u'key': 0, u'duration': 165.44, u'loudness': -6.135, u'audio_md5': u'30b439c068de7a66974104a354e4d0e8', u'danceability': 0.5266155072487436} 
+40
+getting hits:Georgia On My Mind from Ray Charles
+time for api call was: 0.707283973694 ms
+song name: Georgia On My Mind , {u'time_signature': 3, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/qc1_TA5qIgJLsXcbvYtEbujW1tpDv_rUPVSO5X/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246763&Signature=glrPeSyD/QU5Q97gH1ibFAgKgf4%3D', u'energy': 0.3158656587459636, u'liveness': 0.07469888054326494, u'tempo': 106.147, u'speechiness': 0.045352116157471034, u'mode': 0, u'key': 4, u'duration': 292.26667, u'loudness': -22.385, u'audio_md5': u'9691b44fd419e3a6f259f9a8fef9ff02', u'danceability': 0.3621481563713285} 
+41
+getting hits:Only The Lonely from Roy Orbison
+time for api call was: 0.292119026184 ms
+song name: Only The Lonely , {u'time_signature': 4, u'analysis_url': u'http://echonest-analysis.s3.amazonaws.com/TR/vPaySAGA8wvySlbLPL0kzuvJZO04Y7Bp_NqvFt/3/full.json?AWSAccessKeyId=AKIAJRDFEY23UEVW42BQ&Expires=1361246766&Signature=qrRC1sMolf2iGv/XUb6TN3QWwr8%3D', u'energy': 0.43329739458999367, u'liveness': 0.24574819826130886, u'tempo': 132.493, u'speechiness': 0.0335431548875173, u'mode': 1, u'key': 5, u'duration': 137.17333, u'loudness': -11.197, u'audio_md5': u'620d80e8020f2a38f12fe40734e1ad1e', u'danceability': 0.5711648761998191} 
+42
+getting hits:Let's Go&comma;Let's Go&comma;Let's Go from Hank Ballard & the Midnighters
+time for api call was: 6.43242287636 ms
+43
+getting hits:Stay from Maurice Williams & the Zodiacs

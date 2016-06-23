@@ -1,0 +1,17 @@
+#R howto
+
+#load data
+beats<-read.table("beatsAll.dat",sep=",")
+
+#sort data by column x
+sortedbyYear <- beats[order(beats[x]),]
+
+#rename columns
+colnames(sortedbyYear) <- c("year","speech","tempo","key","live","dance","rank","loud","length")
+
+#graphing
+library(ggplot2)
+
+#simple dot plot
+> p<- qplot(data=sortedbyYear,year,key)
+> p + geom_abline()

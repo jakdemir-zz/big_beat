@@ -1,0 +1,61 @@
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-apple-darwin9.8.0/x86_64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> #R howto
+> library(ggplot2)
+> 
+> #load data
+> beats<-read.table("beatsAll.dat",sep=",")
+> 
+> #sort data by column x
+> sortedbyYear <- beats[order(beats[1]),]
+> 
+> #rename columns
+> colnames(sortedbyYear) <- c("year","speech","tempo","key","live","dance","rank","loud","length")
+> 
+> #Get only the top rank
+> sortedByYearTopRank <- sortedbyYear[sortedbyYear$rank==2,]
+> 
+> #graphing
+> library(ggplot2)
+> 
+> #simple dot plot
+> #p<- qplot(data=sortedbyYear,year,length)
+> p<- qplot(data=sortedByYearTopRank ,year,key)
+> 
+> #ggplot(sortedbyYear,aes(factor(year), fill = factor(key)))+ geom_histogram(binwidth=10)
+> 
+> #Draw dots
+> #p + geom_abline()
+> p + geom_quantile()
+Error : quantreg package required for this functionality.  Please install and try again.
+> #p + geom_line(size=2,log='y')
+> #p + geom_histogram(binwidth=1)
+> #p + geom_bar()
+> #p+ stat_smooth()
+> #p + scale_size(range = c(0,10))
+> 
+> #p + stat_summary(geom="ribbon", fun.data="median_hilow")
+> 
+> proc.time()
+   user  system elapsed 
+  0.854   0.041   0.883 

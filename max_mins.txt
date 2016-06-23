@@ -1,0 +1,20 @@
+Maximums and minimums:
+
+> sortedbyYear[sortedbyYear$loud == max(sortedbyYear$loud),]
+    year    speech  tempo key      live     dance rank   loud   length
+331 2001 0.1197602 95.712   7 0.9072054 0.3160368    4 -2.059 110.0933
+
+> sortedbyYear[sortedbyYear$length == max(sortedbyYear$length),]
+    year     speech   tempo key     live     dance rank   loud   length
+561 1966 0.04015269 189.174   2 0.970799 0.3080482    6 -9.059 1118.111
+> sortedbyYear[sortedbyYear$dancibility == max(sortedbyYear$dancibility),]
+
+> sortedbyYear[sortedbyYear$dance == max(sortedbyYear$dance),]
+    year     speech   tempo key      live     dance rank   loud   length
+494 1989 0.08386294 117.542  11 0.2651806 0.9516555    8 -6.586 265.4559
+
+
+> sortedbyYear[sortedbyYear$dance == min(sortedbyYear$dance),]
+   year    speech tempo key      live dance rank    loud length
+43 1955 0.1016755     0   5 0.1632736     0   10 -12.552 156.92
+> 
